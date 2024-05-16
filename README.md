@@ -14,16 +14,16 @@ Step-by-step Explanation:
 
 4. Menu Display and User Input: Like a beacon in the night, a menu beckons the user with options for Withdrawal, Deposit, Balance Check, or gracefully Exiting the program. User input steers the ship.
 
-7. Switch Case: The sails unfurl as distinct operations unfold:
+5. Switch Case: The sails unfurl as distinct operations unfold:
 
-Withdraw: Users are beckoned to input the desired withdrawal amount. The ATM valiantly attempts to deduct the sum from the account, unveiling the remaining balance.
+           Withdraw: Users are beckoned to input the desired withdrawal amount. The ATM valiantly attempts to deduct the sum from the account, unveiling the remaining balance.
 
-Deposit: Choosing to deposit, users are prompted to grace the account with their funds. The deposited sum enriches the account balance, displayed for all to admire.
+           Deposit: Choosing to deposit, users are prompted to grace the account with their funds. The deposited sum enriches the account balance, displayed for all to admire.
 
-Check Balance: Opting to peer into the treasure chest triggers the display of the current account balance.
+          Check Balance: Opting to peer into the treasure chest triggers the display of the current account balance.
 
-Exit: Choosing the path of departure triggers a heartfelt parting message, gently closing the curtains on the program's performance.
+          Exit: Choosing the path of departure triggers a heartfelt parting message, gently closing the curtains on the program's performance.
 
-Invalid Choice: Should a lost soul wander into the realm of invalid choices, fear not! They are gently guided back to the path of righteousness, encouraged to try anew.
+          Invalid Choice: Should a lost soul wander into the realm of invalid choices, fear not! They are gently guided back to the path of righteousness, encouraged to try anew.
 
 This code is not merely lines on a screen; it is a virtual ATM interface, empowering users to navigate fundamental banking operations with confidence and ease
